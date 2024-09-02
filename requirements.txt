@@ -1,0 +1,4 @@
+bleak==0.22.2
+numpy==2.1.0
+asyncio==3.4.3
+bleak==0.22.2
